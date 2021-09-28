@@ -9,6 +9,11 @@
 </a>
 <br/>
 
+### What People Like Here
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UrAvgCoder&theme=github_dark&repo=kernel-csgo)](https://github.com/UrAvgCoder/kernel-csgo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UrAvgCoder&theme=github_dark&repo=ring0-csg0)](https://github.com/UrAvgCoder/ring0-csg0)
+
+
 ##  About Me
 
 I'm a Software Developer and a Tech Enthusiast who loves to learn new technologies and apply it in real-life projects. I prefer Java and C++ as my daily dose of Vitamin C(oding) langauges. I recently started dwelling into RE (Reverse Engineering) games which has put me into a deep loop hole and I am afraid I will be stuck here forever.
