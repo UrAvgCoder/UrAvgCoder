@@ -10,7 +10,6 @@
 <br/>
 
 ### What People Like Here
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UrAvgCoder&theme=github_dark&repo=kernel-csgo)](https://github.com/UrAvgCoder/kernel-csgo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UrAvgCoder&theme=github_dark&repo=ring0-csg0)](https://github.com/UrAvgCoder/ring0-csg0)
 
 
