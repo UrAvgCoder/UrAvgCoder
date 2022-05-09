@@ -18,6 +18,6 @@
 I'm a Software Developer and a Tech Enthusiast who loves to learn new technologies and apply it in real-life projects. I prefer Java and C++ as my daily dose of Vitamin C(oding) langauges. I recently started dwelling into RE (Reverse Engineering) games which has put me into a deep loop hole and I am afraid I will be stuck here forever.
 
 ## Contact Me
-- Stalking your girlfriend on <a href="https://www.instagram.com/ismartgeek/">Instagram</a>
-- Increase my Profile View count on <a href="https://www.linkedin.com/in/uravgcoder/">LinkedIn</a>
-- Send me notifications on <a href="mailto://niri1607@gmail.com">Gmail</a>
+- My Instagram <a href="https://www.instagram.com/ismartgeek/">Instagram</a>
+- My LinkedIn <a href="https://www.linkedin.com/in/uravgcoder/">LinkedIn</a>
+- My Gmail <a href="mailto://niri1607@gmail.com">Gmail</a>
