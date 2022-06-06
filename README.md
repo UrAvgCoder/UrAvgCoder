@@ -10,7 +10,10 @@
 <br/>
 
 ### Find my Most Recent Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UrAvgCoder&theme=github_dark&repo=Springboot-RabbitMQ-Communication)]([https://github.com/UrAvgCoder/ring0-csg0](https://github.com/UrAvgCoder/Springboot-RabbitMQ-Communication))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UrAvgCoder&theme=github_dark&repo=Springboot-RabbitMQ-Communication)](https://github.com/UrAvgCoder/Springboot-RabbitMQ-Communication)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UrAvgCoder&theme=github_dark&repo=PathVisualization)](https://github.com/UrAvgCoder/PathVisualization)
+
 
 
 ##  About Me
