@@ -5,7 +5,6 @@
 
 <a href="https://github.com/UrAvgCoder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UrAvgCoder&theme=github_dark&show_icons=true&count_private=true" alt="UrAvgCoder's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrAvgCoder&theme=github_dark&hide=javascript,html,css,php,tsql" alt="UrAvgCoder's github top languages" />
 </a>
 <br/>
 
